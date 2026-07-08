@@ -1,24 +1,12 @@
-# 👋 hey, i'm intally aka intalhub
+# revotick
 
-**python dev / gamer / tinkerer**
+https://steamcommunity.com/id/Revotick
+https://t.me/revotick
+https://soundcloud.com/revotick
 
-💻 making scripts & tools  
-🎮 into rpgs, sandbox & multiplayer games  
-⚡ love modding, tweaking, breaking stuff  
+Discord: revotick
 
----
-
-### 🛠️ skills
-- Python 🐍
-- Tkinter / GUI
-- Game modding & scripting
-- Bash / automation
-
----
-
-### 🎮 favorites
-- Dota 2  
-- Minecraft  
-- Rust  
-- GTA V  
-
+Interests:
+- Distrohopping (Arch/CachyOS)
+- 3D modeling (Blender)
+- Gaming (CS2, GTA V, Rust, EFT)
