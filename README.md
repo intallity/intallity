@@ -1,9 +1,9 @@
 # revotick
 
-https://steamcommunity.com/id/Revotick
-https://t.me/revotick
+https://steamcommunity.com/id/intally_of_sheesh
+https://t.me/int4lly
 https://soundcloud.com/revotick
-discord: revotick
+discord: intally
 
 Interests:
 - 3D modeling (Blender)
