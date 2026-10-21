@@ -1,4 +1,4 @@
-# revotick
+# intally
 
 https://steamcommunity.com/id/intally_of_sheesh
 https://t.me/int4lly
